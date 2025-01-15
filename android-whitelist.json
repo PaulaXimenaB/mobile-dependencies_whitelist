@@ -1702,6 +1702,8 @@
       "version": "9\\.+"
     },
     {
+      "description": "The expiration date is set to have time enough to deprecate it",
+      "expires": "2025-03-31",
       "group": "com\\.mercadopago\\.android\\.isp\\.point\\.mpoc",
       "name": "mypinpad",
       "version": "3\\.+"
@@ -1719,16 +1721,51 @@
       "allows_granular_projects": [
         "com.mercadolibre.android.point.mpos"
       ],
+      "description": "The expiration date is set to have time enough to deprecate it",
+      "expires": "2025-03-31",
       "group": "com\\.mercadopago\\.android\\.isp\\.point\\.mpoc",
       "name": "mypinpad",
       "version": "3\\.+"
     },
     {
+      "description": "The expiration date is set to have time enough to deprecate it",
+      "expires": "2025-03-31",
       "group": "com\\.mercadopago\\.android\\.isp\\.point\\.mpoc",
       "name": "prometheus",
       "version": "3\\.+"
     },
+      {     
+      "group": "com\\.mercadopago\\.android\\.isp\\.point\\.mpoc",
+      "name": "mypinpad",
+      "version": "4\\.+"
+    },
     {
+      "description": "The expiration date is set to have time enough to deprecate it",
+      "expires": "2025-03-31",
+      "allows_granular_projects": [
+        "com.mercadolibre.android.point.mpos",
+        "com.mercadopago.dynamic.feature.mpoc"
+      ],
+      "group": "com\\.mercadopago\\.android\\.isp\\.point\\.mpoc",
+      "name": "mpoc",
+      "version": "4\\.+"
+    },
+    {
+      "allows_granular_projects": [
+        "com.mercadolibre.android.point.mpos"
+      ],
+      "group": "com\\.mercadopago\\.android\\.isp\\.point\\.mpoc",
+      "name": "mypinpad",
+      "version": "4\\.+"
+    },
+    {
+      "group": "com\\.mercadopago\\.android\\.isp\\.point\\.mpoc",
+      "name": "prometheus",
+      "version": "4\\.+"
+    },
+    {
+      "description": "The expiration date is set to have time enough to deprecate it",
+      "expires": "2025-03-31",
       "allows_granular_projects": [
         "com.mercadolibre.android:cardform",
         "com.mercadolibre.android.ccap:remedy-challenge",
@@ -1737,6 +1774,16 @@
       "group": "com\\.mercadopago\\.android\\.isp\\.point\\.mpoc",
       "name": "tte",
       "version": "3\\.+"
+    },
+   {
+      "allows_granular_projects": [
+        "com.mercadolibre.android:cardform",
+        "com.mercadolibre.android.ccap:remedy-challenge",
+        "com.mercadopago.android.px"
+      ],
+      "group": "com\\.mercadopago\\.android\\.isp\\.point\\.mpoc",
+      "name": "tte",
+      "version": "4\\.+"
     },
     {
       "group": "com\\.mercadolibre\\.mpos\\.android\\.sdk_mpp",
